@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RioItata</string>
+    <string name="action_settings">Settings</string>
+    <string name="BtnPrensa">Prensa</string>
+    <string name="BtnCocina">Cocina</string>
+    <string name="BtnSecado">Secado</string>
+    <string name="TvUsuario">Usuario</string>
+    <string name="TvPassword">Contraseña</string>
+    <string name="EtPassword"></string>
+    <string name="Boton">Ingresar</string>
+
+</resources>
